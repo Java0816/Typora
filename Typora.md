@@ -14,7 +14,7 @@
 
 ``Shift + Ctrl + Tab上边那个键 ``行内代码块，`行内代码块`测试
 
-`Ctrl + K`超链接， [超链接](www.baidu.com)测试
+`Ctrl + K`超链接， [超链接](https://www.baidu.com)测试
 
 `Ctrl + T`插入表格，支持拖拽移动，网页端表格转换
 
