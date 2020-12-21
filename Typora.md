@@ -33,7 +33,7 @@
 
 `Ctrl + Shift + I` 图片
 
-<img src="http://pic21.nipic.com/20120523/4175162_180626364155_2.jpg" />
+<img src="C:\Users\高崧皓\Desktop\4175162_180626364155_2.jpg" style="zoom:100%;" />
 
 
 
